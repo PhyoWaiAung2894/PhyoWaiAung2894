@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/PhyoWaiAung2894/PhyoWaiAung2894/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/PhyoWaiAung2894/PhyoWaiAung2894/blob/output/github-contribution-grid-snake.gif)
 
 ###
