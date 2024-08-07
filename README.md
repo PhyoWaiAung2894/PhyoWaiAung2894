@@ -55,6 +55,7 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/PhyoWaiAung2894/PhyoWaiAung2894/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/PhyoWaiAung2894/PhyoWaiAung2894/output/snake.svg" alt="Snake animation" />
+
 
 ###
