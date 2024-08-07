@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="left">🛠 Language and tools</h4>
+<h4 align="center">🛠 Language and tools</h4>
 
 ###
 
@@ -55,6 +55,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PhyoWaiAung2894/PhyoWaiAung2894/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
