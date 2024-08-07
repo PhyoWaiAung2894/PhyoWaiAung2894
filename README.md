@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m working as a iOS Developer<br>- 📚 I'm currently learning AWS, Docker and Flutter<br>- ⚡ In my free time I play video games and hit gym.</p>
+<p align="left">🔭 I’m working as a iOS Developer<br>- 📚 I'm currently learning AWS, Docker and Flutter<br>- ⚡ In my free time I play video games and hit gym.</p>
 
 ###
 
